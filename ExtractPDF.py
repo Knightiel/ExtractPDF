@@ -17,7 +17,7 @@ import pytesseract
 from PIL import Image, ImageOps
 
 
-# Manual Configuration PATH TESSERACT (opcional)
+# Manual Configuration PATH TESSERACT (optional)
 
 TESSERACT_CAMINHO = r""
 
