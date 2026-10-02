@@ -11,7 +11,7 @@ qualquer resolução e pode ser reutilizada em vários PDFs de mesmo layout.
 
 Instalação
 
-    pip install pymupdf pytesseract pandas openpyxl pillow
+    pip install -r requirements.txt
 
     + Tesseract OCR (programa externo):
       Windows: https://github.com/UB-Mannheim/tesseract/wiki  (marque "Portuguese")
