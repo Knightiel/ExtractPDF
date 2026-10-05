@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+"""
+
 from __future__ import annotations
 
 import argparse
@@ -17,7 +23,7 @@ import pytesseract
 from PIL import Image, ImageOps
 
 
-# Manual Configuration PATH TESSERACT (optional)
+# Manual Configuration PATH TESSERACT (opcional)
 
 TESSERACT_CAMINHO = r""
 
